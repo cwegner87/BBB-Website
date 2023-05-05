@@ -120,28 +120,19 @@
         "reviews": []
     },
     {
-        "name" : "Kauffman Orchards Homegrown McIntosh Apples",
-        "price" : "2.75",
-        "description" : "McIntosh is a pretty red/green apple with white flesh Homegrown in Kauffman's orchard in healthy Lancaster County soil McIntosh apples are famous for snacking, pies, salads, and applesauce Protected with soft, high-density foam for safe shipping to your door Not for sale to California, Oregon, or Washington due to state laws governing fresh produce",
-        "ratings" : 5,
-        "images" : [
-            {
-                "public_id" : "products/wmoa49q9e70ze9xtcra2",
-                "url" : "https://res.cloudinary.com/bookit/image/upload/v1606293153/products/wmoa49q9e70ze9xtcra2.jpg"
-            },
-            {
-                "public_id" : "products/i0k1wdwi5hrpmzwxvsds",
-                "url" : "https://res.cloudinary.com/bookit/image/upload/v1606293152/products/i0k1wdwi5hrpmzwxvsds.jpg" 
-            },
-            {
-                "public_id" : "products/bshmuo9qisfhz4azvnsd",
-                "url" : "https://res.cloudinary.com/bookit/image/upload/v1606293153/products/bshmuo9qisfhz4azvnsd.jpg"
-            }
-    ],
-        "category" : "Food",
-        "seller" : "Kauffman's Fruit Farm & Market",
-        "stock" : 500,
-        "numOfReviews" : 1,
+        "name" : "Apple Watch Series 3 (GPS, 38mm) - Space Gray Aluminum Case with Black Sport Band",
+        "price" : "179.00",
+        "description" : "GPS, Retina display, Swimproof, Optical heart sensor, Stores music, podcasts, and audiobooks, Elevation, Emergency SOS, S3 chip with dual-core processor, watchOS with Activity trends, Siri",
+        "ratings" : 4.8,
+        "images" : [{
+            "public_id" : "products/watch_ekqj2y",
+            "url" : "https://res.cloudinary.com/bookit/image/upload/v1606231283/products/watch_ekqj2y.jpg"
+        }],
+        "category" : "Watches",
+        "seller" : "Amazon",
+        "stock" : 0,
+        "numOfReviews" : 56,
         "reviews": []
     }
+
 ]
