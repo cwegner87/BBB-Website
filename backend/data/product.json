@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Free People Sweater",
+        "price" : "45.89",
+        "description" : "Free People Sweater",
+        "ratings" : 4.5,
+        "images" : [{
+            "id" : "76888"
+        }],
+        "category" : "Clothing",
+        "seller" : "Ebay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews": []
+    }    
+
+]
